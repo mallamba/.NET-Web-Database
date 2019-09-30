@@ -1,0 +1,159 @@
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.dll
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.input.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.output.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorCoreGenerate.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CopyComplete
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Omoss.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Extra.g.cshtml.cs
+C:\Users\flowers\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.dll
+G:\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CoreCompileInputs.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.input.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.output.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorCoreGenerate.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Extra.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Omoss.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CopyComplete
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell2.g.cshtml.cs
+G:\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Client.g.cshtml.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.dll
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.input.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.output.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorCoreGenerate.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Client.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Extra.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell2.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Omoss.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CopyComplete
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\SignIn.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Itemlist1.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\ItmlistFromSession.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form1.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form2.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\NewItem\Create.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\NewItem\Index.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form3.cshtml.g.cs
+C:\Users\Mallamba\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form4.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.dll
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.input.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.TagHelpers.output.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorCoreGenerate.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Client.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Extra.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form1.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form2.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form3.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Form4.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Itemlist1.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\ItmlistFromSession.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Modell2.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Omoss.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Home\SignIn.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\NewItem\Create.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\NewItem\Index.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cs
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.Views.pdb
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\Mallamba\Documents\GitHub\dotNET-Web-Database\dotnet mvc Core 1\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CopyComplete

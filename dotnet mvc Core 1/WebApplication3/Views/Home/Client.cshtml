@@ -1,0 +1,66 @@
+﻿@model WebApplication3.Models.Client.ViewModell
+
+
+@{
+    ViewData["Title"] = "Client";
+}
+
+<h1>Client</h1>
+
+
+<p>Listan från ViewData: </p>
+
+@{
+    IEnumerable<WebApplication3.Models.Client> clients = (IEnumerable<WebApplication3.Models.Client>)ViewData["clients-in-list"];
+}
+<table>
+    <tr>
+        <th>Id </th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (Client client in clients)
+    {
+        <tr>
+            <th>@client.Id</th>
+            <th>@client.Name</th>
+        </tr>
+    }
+</table>
+
+<p>Listan från ViewBag: </p>
+
+@{
+    IEnumerable<WebApplication3.Models.Client> clients2 = (IEnumerable<WebApplication3.Models.Client>)ViewBag.clients;
+}
+<table>
+    <tr>
+        <th>Id </th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (Client client in clients2)
+    {
+        <tr>
+            <th>@client.Id</th>
+            <th>@client.Name</th>
+        </tr>
+    }
+</table>
+
+
+<p>Listan från ViewModell: </p>
+<table>
+    <tr>
+        <th>Id </th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (WebApplication3.Models.Client client in Model.ClientDetailList)
+    {
+        <tr>
+            <th>@client.Id</th>
+            <th>@client.Name</th>
+        </tr>
+    }
+</table>

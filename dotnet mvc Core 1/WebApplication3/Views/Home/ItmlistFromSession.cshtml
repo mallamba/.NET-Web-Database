@@ -1,0 +1,19 @@
+﻿@model IEnumerable<WebApplication3.Models.Item>
+
+@{
+    ViewData["Title"] = "ItmlistFromSession";
+}
+
+<h1>ItmlistFromSession</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@foreach (var item in Model)
+{
+<ul>
+    <li>@Html.DisplayNameFor(model => model.Id): @Html.DisplayFor(modelItem => item.Id)    </li>
+    <li>@Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(modelItem => item.Name)    </li>
+</ul>
+}

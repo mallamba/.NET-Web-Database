@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Form1";
+}
+
+<h1>Form1- formulär</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.TextBox("Textexempel");
+    <input type="submit" value="Skicka in" class="btn-primary" />
+}
+
+<p>
+    Här nedan kommer resultatet:
+    <br />
+    @ViewBag.form1
+</p>

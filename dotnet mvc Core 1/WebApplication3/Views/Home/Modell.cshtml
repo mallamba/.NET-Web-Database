@@ -1,0 +1,21 @@
+﻿@model WebApplication3.Models.Item
+@{
+    ViewData["Title"] = "Modell";
+}
+
+<h1>Modell</h1>
+
+<p>
+	Detta är modellen 
+	<br>
+	Id: @Model.Id
+	<br>
+	Name: @Model.Name
+
+</p>
+<p>
+    Här nedan skriver vi ut JSON-convert-innehållet som ska skickas:
+    <br>
+    @ViewBag.jsonsträng1
+
+</p>

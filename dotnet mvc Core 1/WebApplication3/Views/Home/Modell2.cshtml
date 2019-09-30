@@ -1,0 +1,32 @@
+﻿@model WebApplication3.Models.Item
+
+@{
+    ViewData["Title"] = "Modell2";
+}
+
+<h1>Modell2</h1>
+
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<p>
+    Här nedan skriver vi ut JSON-convert-innehållet som kommer via session:
+    <br>
+    @ViewBag.jsonsträng2
+
+</p>
